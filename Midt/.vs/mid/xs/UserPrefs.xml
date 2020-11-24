@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{2986431F-78F2-4924-A566-8C449E9A1E58}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mid/Views/Calculations/Index.cshtml">
+    <Files>
+      <File FileName="mid/Views/Shared/_Layout.cshtml" Line="34" Column="1" />
+      <File FileName="mid/Views/Home/Index.cshtml" Line="5" Column="108" />
+      <File FileName="mid/Views/Calculations/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mid" expanded="True">
+            <Node name="mid" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Calculations" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mid PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
